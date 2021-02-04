@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-title {
+    padding-top: 100px;
+    margin-bottom: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color:#212121;
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    margin: 0 auto 30px;
+    background-color:#E72424;
+    border: none;
+}
+
+.subtitle {
+    margin-bottom: 36px;
+    font-size: 14px;
+    color: #86878B;
+    font-weight: 400;
+}
+
+.main {
+    margin: 40px 0 108px;
+    /*font-size: 0;*/
+}
+
+.card {
+    display: inline-block;
+    width: 350px;
+    margin: 0 16px;
+}
+
+.card-title {
+    margin-bottom: 16px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+
+.text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 30px;
+    border: 1px solid #E72424;
+    border-radius: 50%; 
+}
+
+.icon--lamp {
+    background: url(../img/lamp.png) no-repeat center;
+}
+
+.icon--keyboard {
+    background: url(../img/keyboard.png) no-repeat center;
+}
+
+.icon--lighting {
+    background: url(../img/lightning.png) no-repeat center;
+}
+
+
+
+
+
+
